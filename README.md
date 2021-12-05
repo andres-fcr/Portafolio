@@ -1,3 +1,5 @@
+# Por problemas de versiones de componentes de react no es posible subirlo a vercel
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
