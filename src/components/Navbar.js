@@ -3,7 +3,6 @@ import React, { useState } from "react";
 import { Container, Wrapper, LogoContainer, Menu, MenuItem, MenuItemLink, MobileIcon } from "../styled/Navbar.elements";
 
 import {
-    FaBattleNet,
     FaBars,
     FaTimes,
     FaHome,

@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { ContainerPrincipal, LogoContainer, ContainerTexto, P, P2, ContainerIconos, LinkRedes } from "../styled/Footer.elements";
 import {
-    FaBattleNet,
     FaInstagram,
     FaGithub,
     FaTwitter,

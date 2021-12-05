@@ -66,7 +66,7 @@ export default class Testimonios extends Component {
                     
                 </ContainerPrincipal>
                 
-                <img width="100%" src="https://res.cloudinary.com/dbyw7mbt6/image/upload/v1638665846/appmascotas/img_xnesjx.png" />
+                <img width="100%" src="https://res.cloudinary.com/dbyw7mbt6/image/upload/v1638665846/appmascotas/img_xnesjx.png" alt="..." />
             </div>
         )
     }
